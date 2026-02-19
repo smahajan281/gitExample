@@ -1,2 +1,3 @@
 boss,smahajan28,Mahajan,Sambhav
 employee,madhushankar,Madhushankar,Ashvath
+role,NetID,LastName,FirstName
